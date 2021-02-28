@@ -1,5 +1,5 @@
 {
-  "name": "XBOT",
+  "name": "LTS",
   "version": "1.0.0",
   "description": "Xbot for whatsapp online with termux",
   "main": "index.js",
@@ -13,15 +13,15 @@
   "keywords": [
     "k"
   ],
-  "author": "affis junianto",
+  "author": "Lisa",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasapv2.git"
+    "url": "git+https://github.com/lisasyarifatiu/botwasapv2.git"
   },
   "bugs": {
-    "url": "https://github.com/affisjunianto/botwasapv2/issues"
+    "url": "https://github.com/lisasyarifatiu/botwasapv2/issues"
   },
-"homepage": "https://github.com/affisjunianto/botwasapv2/readme",
+"homepage": "https://github.com/lisasyarifatiu/botwasapv2/readme",
 "license": "ISC",
 "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
